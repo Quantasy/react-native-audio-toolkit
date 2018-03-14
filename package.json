@@ -1,5 +1,5 @@
 {
-  "name": "q-rn-audio-toolkit",
+  "name": "react-native-audio-toolkit",
   "version": "1.0.11",
   "description": "Cross-platform audio library for React Native",
   "repository": {
